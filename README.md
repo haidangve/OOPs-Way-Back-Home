@@ -1,9 +1,9 @@
 # 🎮 OOP's Way Back Home
 
-<img width="776" height="434" alt="Screenshot 2025-04-01 131918" src="https://github.com/user-attachments/assets/ce7903f7-d092-4883-b5b8-ea31c80eb0ff" />
-<img width="783" height="442" alt="Screenshot 2025-04-01 131851" src="https://github.com/user-attachments/assets/9ae5d388-917c-49b3-bb07-5199481f924c" />
-<img width="778" height="425" alt="Screenshot 2025-04-01 130812" src="https://github.com/user-attachments/assets/871e949d-e73e-48ea-8a1a-ac6499461d0a" />
-<img width="938" height="537" alt="Screenshot 2025-04-01 132813" src="https://github.com/user-attachments/assets/6ba925a1-6a04-48d4-92c7-f0b0cfde5713" />
+<img width="400" height="250" alt="Screenshot 2025-04-01 131918" src="https://github.com/user-attachments/assets/ce7903f7-d092-4883-b5b8-ea31c80eb0ff" />
+<img width="400" height="250" alt="Screenshot 2025-04-01 131851" src="https://github.com/user-attachments/assets/9ae5d388-917c-49b3-bb07-5199481f924c" />
+<img width="400" height="250" alt="Screenshot 2025-04-01 130812" src="https://github.com/user-attachments/assets/871e949d-e73e-48ea-8a1a-ac6499461d0a" />
+<img width="400" height="250" alt="Screenshot 2025-04-01 132813" src="https://github.com/user-attachments/assets/6ba925a1-6a04-48d4-92c7-f0b0cfde5713" />
 
 ## 📖 Overview
 **OOP’s Way Back Home** is an 8-bit style educational game built in **Godot Engine**.  
@@ -32,7 +32,17 @@ The game combines retro adventure with **object-oriented programming (OOP) conce
 ---
 
 ## ▶️ Play
-Download the latest build from the [Releases](../../releases) page and run `OOPsWayBackHome.exe` (Windows).  
+## ▶️ Play
+**Download for Windows:** [OOP’s Way Back Home – mainrelease](https://github.com/haidangve/OOPs-Way-Back-Home/releases/tag/mainrelease)
+
+**How to run**
+1) Download the `.zip` from the release assets  
+2) Unzip and open `OOPsWayBackHome.exe`  
+3) If Windows SmartScreen warns, click **More info → Run anyway**
+
+**Controls**
+WASD/Arrows = Move · Space = Interact · Esc = Pause/Menu
+
 
 **Controls**  
 - `Arrow Keys / WASD` – Move  
