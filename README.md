@@ -32,7 +32,6 @@ The game combines retro adventure with **object-oriented programming (OOP) conce
 ---
 
 ## ▶️ Play
-## ▶️ Play
 **Download for Windows:** [OOP’s Way Back Home – mainrelease](https://github.com/haidangve/OOPs-Way-Back-Home/releases/tag/mainrelease)
 
 **How to run**
